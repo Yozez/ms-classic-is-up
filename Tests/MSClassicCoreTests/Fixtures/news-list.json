@@ -1,0 +1,61 @@
+[
+ {
+  "imageThumbnail": "/media/sjefpkas/wgc-3058-260325-generic-banners-for-classic-world-webposts-news-post-540x304.jpg",
+  "summary": "MapleStory Classic World will be performing a scheduled maintenance starting on Wednesday, November 18, 2026 at 5:00 AM PST.",
+  "featured": true,
+  "isMSCW": true,
+  "liveDate": "2026-11-16T19:00:22Z",
+  "name": "Scheduled Game Update - November 18, 2026",
+  "id": 48557,
+  "category": "maintenance"
+ },
+ {
+  "imageThumbnail": "/media/kxpbsnls/240826_knownissue_wgc-1339_540x304.jpg",
+  "summary": "Here you’ll find a list of known and resolved issues from the v.272 - Maplayer One update.",
+  "featured": false,
+  "isMSCW": false,
+  "liveDate": "2026-11-13T15:31:40Z",
+  "name": "v.272 Known Issues",
+  "id": 48436,
+  "category": "maintenance"
+ },
+ {
+  "imageThumbnail": "/media/jytnlmt0/news-post-540x304-november-11-cash-shop-update-maplestory-classic-world.jpg",
+  "summary": "Mystery Styles Update!",
+  "featured": true,
+  "isMSCW": true,
+  "liveDate": "2026-11-10T16:00:00Z",
+  "name": "Classic World Cash Shop Update: Nov. 11",
+  "id": 47069,
+  "category": "sale"
+ },
+ {
+  "imageThumbnail": "/media/sjefpkas/wgc-3058-260325-generic-banners-for-classic-world-webposts-news-post-540x304.jpg",
+  "summary": "The maintenance has been completed and we have extended Cash Shop items in your inventory for 2 hours.",
+  "featured": false,
+  "isMSCW": true,
+  "liveDate": "2026-11-04T17:00:00Z",
+  "name": "[Completed] Unscheduled Maintenance - November 4, 2026",
+  "id": 47580,
+  "category": "maintenance"
+ },
+ {
+  "imageThumbnail": "/media/sjefpkas/wgc-3058-260325-generic-banners-for-classic-world-webposts-news-post-540x304.jpg",
+  "summary": "The maintenance has been completed and we have extended Cash Shop items in your inventory for 4 hours.",
+  "featured": false,
+  "isMSCW": true,
+  "liveDate": "2026-10-29T08:00:47Z",
+  "name": "[Completed] Scheduled Maintenance - October 29, 2026",
+  "id": 47298,
+  "category": "maintenance"
+ },
+ {
+  "imageThumbnail": "/media/xdxdmzae/261104-wgc-3545-mscw-maplayerone-v272-patchnotes-540x304.png",
+  "summary": "Click here to read the patch notes for v.272 -  Maplayer One update.",
+  "featured": true,
+  "liveDate": "2026-11-10T15:30:00Z",
+  "name": "v.272 - Maplayer One Patch Notes",
+  "id": 47132,
+  "category": "update"
+ }
+]
